@@ -31,3 +31,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashukulu&show_icons=true&locale=en&layout=compact" alt="ashukulu"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashukulu&show_icons=true&locale=en" alt="ashukulu"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashukulu&" alt="ashukulu"/>
+[![AshuKulu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashukulu)](https://github.com/anuraghazra/github-readme-stats)
