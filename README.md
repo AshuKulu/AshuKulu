@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Sahoo</h1>
 <h3 align="center">Tech Enthusiast | Android Developer [Intermediate] | Web Developer [Noob]</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashukulu&label=Profile%20views&color=0e75b6&style=flat" alt="ashukulu" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashukulu" alt="ashukulu" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/asashukulu" target="blank"><img src="https://img.shields.io/twitter/follow/asashukulu?logo=twitter&style=for-the-badge" alt="asashukulu" /></a> </p>
 
 - 🔭 I’m currently working on **2 Android (Kotlin) Projects.**
 
@@ -21,14 +17,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://devpost.com/ashukulu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://devpost.com/ashukulu" height="30" width="40" /></a>
+<a href="https://dev.to/ashukulu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ashukulu" height="30" width="40" /></a>
 <a href="https://twitter.com/asashukulu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asashukulu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sahoo-ashutosh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sahoo-ashutosh/" height="30" width="40" /></a>
-<a href="https://fb.com/https://m.facebook.com/ashutosh.sahoo.14661/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://m.facebook.com/ashutosh.sahoo.14661/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.linkedin.com/in/sahoo-ashutosh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.linkedin.com/in/sahoo-ashutosh/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/ashukulu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/ashukulu" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/sahooashutosh247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/sahooashutosh247" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/sahooashutosh247/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/sahooashutosh247/profile" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sahoo-ashutosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahoo-ashutosh" height="30" width="40" /></a>
+<a href="https://fb.com/ashutosh.sahoo.14661" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashutosh.sahoo.14661" height="30" width="40" /></a>
+<a href="https://instagram.com/sahoo-ashutosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahoo-ashutosh" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ashukulu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ashukulu" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sahooashutosh247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sahooashutosh247" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sahooashutosh247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sahooashutosh247" height="30" width="40" /></a>
 <a href="https://discord.gg/AshuKulu#6975" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AshuKulu#6975" height="30" width="40" /></a>
 </p>
 
