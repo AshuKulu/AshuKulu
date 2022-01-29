@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Ashutosh Sahoo</h1>
 <h3 align="center">Tech Enthusiast | Android Developer [Intermediate] | Web Developer [Noob]</h3>
 
