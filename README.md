@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Sahoo</h1>
 <h3 align="center">Tech Enthusiast | Android Developer [Intermediate] | Web Developer [Noob]</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashukulu" alt="ashukulu" /></a> </p>
-
 - 🔭 I’m currently working on **2 Android (Kotlin) Projects.**
 
 - 🌱 I’m currently learning **React Native framework.**
@@ -21,7 +19,7 @@
 <a href="https://twitter.com/asashukulu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asashukulu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sahoo-ashutosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahoo-ashutosh" height="30" width="40" /></a>
 <a href="https://fb.com/ashutosh.sahoo.14661" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashutosh.sahoo.14661" height="30" width="40" /></a>
-<a href="https://instagram.com/sahoo-ashutosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahoo-ashutosh" height="30" width="40" /></a>
+<a href="https://instagram.com/ashukulu7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashukulu7" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ashukulu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ashukulu" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sahooashutosh247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sahooashutosh247" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sahooashutosh247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sahooashutosh247" height="30" width="40" /></a>
