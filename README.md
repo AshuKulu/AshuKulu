@@ -50,5 +50,5 @@
 </p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashukulu&show_icons=true&locale=en&layout=compact" alt="ashukulu"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashukulu&" alt="ashukulu"/>
+<!--<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashukulu&" alt="ashukulu"/>-->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashukulu&show_icons=true&count_private=true&include_all_commits=true&locale=en" alt="ashukulu"/>
